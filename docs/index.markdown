@@ -4,3 +4,4 @@
 
 layout: home
 ---
+<a href=handouts/handout.html>Handout</a>
